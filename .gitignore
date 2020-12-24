@@ -1,0 +1,5 @@
+
+.DS_Store
+.ipynb_checkpoints/EducationData-checkpoint.ipynb
+.ipynb_checkpoints/helper-checkpoint.py
+__pycache__/helper.cpython-38.pyc
